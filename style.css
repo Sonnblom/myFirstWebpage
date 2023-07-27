@@ -1,0 +1,63 @@
+
+.topnav {
+    background-color: #a064b0;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+   .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #5c3672;
+    color: white;
+  }
+
+.intro {
+    font-size: 20px;
+    
+}
+.sample-message {
+    height: 50%;
+    font-size: x-large;
+    color: rgb(251, 37, 251);
+    font-family:
+     'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.This-is-me {
+    color: rgb(70, 70, 70); 
+    margin-left: 6cm; 
+    font-size: x-large;
+}
+.progressbartext {
+    font-size: x-large;
+    margin-left: 20px;
+    font-family:
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.progressbar {
+margin-left: 18px;
+height: 26px;
+}
+.ilike1 {
+    font-size: 0.65cm; 
+    color: blueviolet;
+}
+.ilike2 {
+    font-size: 0.65cm; 
+    color: rgb(238, 117, 69);
+}
+.ilike3 {
+    font-size: 0.65cm; 
+    color: rgb(56, 149, 255);
+    margin-bottom:5cm;
+}
